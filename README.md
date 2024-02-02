@@ -1,23 +1,30 @@
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/virjilakrum">Virjilakrum</a></h3>
 
-# Technical Skills: 
-* #### React (Next.js, Vue.js)
-* #### Node.js (Express.js)
-* #### Typescript (o1js)
-* #### Smart Contracts (Solidity, OpenZeppelin)
-* #### Data fetching (React-Query)
-* #### API (GraphQL, OpenAPI)
-* #### Authentication (Oauth2, Auth0, Web3, Merkle Tree)
-* #### Cloud (Firebase, AWS)
-* #### Style (wagmi, three.js, styled-components, tailwind.css, Sass/scss)
-* ####  ORM (Prisma)
-* #### Testing (Jest, Cypress, Goerli, Sepolia, Ganache, Hardhat, Berkeley/Testworld2)
-* #### Integration (Infura, Stripe, Google, Youtube, GPT, Git)
-* #### UI & UX (Figma, Spline, Dora)
-* #### Web3 (zk-Apps (MINA), Ceramic Network, Avalanche C-chain, Scroll, EVM, HAQQ, Moralis, APTOS, Sui, BNBchain)
-* #### Provider (Rainbow-Kit, Metamask-SDK, Ethers.js, Web3.js)
-* #### Zk (snarky.js, MINA Protocol, Snaaps, ZoKrates)
+**Graduated Department:** Computer Engineering. (2018)
+**Active SmartContract Developer:** DATS Project / Atlaspad
+**Public Sector:** He is the founder of the Siber Vatan Blockchain Team (Cuberium Sec.) established by the Republic of TR Digital Transformation Office and the Ministry of Technology and Industry of TR.
+### SKILLS
+**React:** Next.js
+**Node.js:** Express.js
+**Typescript:** o1js
+**Smart Contracts:** Solidity, OpenZeppelin
+**Data fetching:** Query
+**API:** GraphQL, OpenAPI
+**Authentication:** Oauth2, Auth0, Web3, Merkle Trees
+**Cloud:** Firebase, AWS
+**Style:** wagmi, three.js, styled-components, tailwind.css, Sass/scss
+**ORM:** Prisma
+**Testing:**  Jest, Cypress,
+**Integration:** Infura, Stripe, Google, Youtube, GPT, Git
+**UI:** Figma, Spline, Dora
+**Web3:** EVM, Ceramic Network, Avalanche C Scroll, , HAQQ, Moralis, APTOS, Sui, BNBchain, Goerli, Sepolia, Ganache, Hardhat, Berkeley
+**Provider:**Rainbow-Kit, Metamask-SDK, Ethers.js, Web3.js
+**ZkApps**:o1js, MINA Protocol, ZoKrates
+**Work with (Experience):** Scroll / DATS / Cheeseart / Simurglabs / Islamic Coin / Solana / Hyperledger Foundation
+**Representative:** Hyperledger Foundation, Solana Allstars
+**Linkedin:** https://www.linkedin.com/in/baturalpguvenc 
+**Old github:** https://github.com/baturalpguvenc
   
  
 ## What I'm Doing
