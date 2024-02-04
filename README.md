@@ -1,7 +1,7 @@
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/virjilakrum">Virjilakrum</a></h3>
 
-**Graduated Department:** Computer Engineering. (2018)
+**Graduated Department:** Computer Engineering (2018).
 **Active SmartContract Developer:** DATS Project / Atlaspad
 **Public Sector:** He is the founder of the Siber Vatan Blockchain Team (Cuberium Sec.) established by the Republic of TR Digital Transformation Office and the Ministry of Technology and Industry of TR.
 ### SKILLS
