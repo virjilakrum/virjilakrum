@@ -24,7 +24,7 @@
 - **Work with (Experience):** Scroll / DATS / Cheeseart / Simurglabs / Islamic Coin / Solana / Hyperledger Foundation
 - **Representative:** Hyperledger Foundation, Solana Allstars
 - **Linkedin:** https://www.linkedin.com/in/baturalpguvenc 
-- **Old github:** https://github.com/baturalpguvenc
+- **Old github (Broken):** https://github.com/baturalpguvenc
   
  
 ## What I'm Doing
