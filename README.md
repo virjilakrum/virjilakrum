@@ -85,7 +85,7 @@
 - **Solana Global Renaissance Hackathon Multichain Track (Winner🥇)** | April 2024
 - **Solana Demoday (Winner🥈)** | March 2024
 - **Solana Mini Hackathon (Winner🥇)** | March 2024
-- **MINA zk-Ignite Cohort-3 Program (Winner)** | March 2024
+- **MINA zk-Ignite Cohort-3 Program (Project Grant)** | March 2024
 - **SOVOS Hackathon (Winner🥈)** | November 2022
 - **Antalya Siber Vatan Bootcamp** | August 2022
 - **Cyber Security Start-up Weekend** | May 2022
@@ -132,6 +132,7 @@
 ## Certificates
 
 - **MIT Blockchain & Crypto Money Completion Certificate** | August 2023
+- **ETH Devcon Istanbul** | November 2023
 - **Sovos Hyperledger Hackathon** | November 2022
 - **TURING Blockchain Certificate** | September 2023
 - **DIGIAGE Bilişim Vadisi Unreal Engine V Developer** | September 2022
