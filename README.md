@@ -144,7 +144,7 @@
 
 ## Languages
 
-- **English:** Advanced (Equivalent to TOEFL, 74 points)
+- **English:** Close to Fluent (Equivalent to TOEFL, 74 points)
 - **Turkish:** Native
 
 ---
