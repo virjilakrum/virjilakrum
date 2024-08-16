@@ -34,7 +34,7 @@
 
 - Achieved membership after winning the Best Multichain Track (Wormhole) at the Solana Renaissance Global Hackathon.
 
-### **CTO & Fullstack Developer | Atlaspad/MINA Protocol**
+### **CTO & Fullstack Developer | Atlaspad / MINA Protocol zk-Ignite Cohort**
 *November 2023 - June 2024*
 
 - Developed the world's first Crosschain zk-Launchpad using Oracle and Merkle-Tree for EVM and MINA network integration.
