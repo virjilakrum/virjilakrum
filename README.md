@@ -1,4 +1,4 @@
-# •Epoche• 
+# •Dante• 
 
 - **Email:** [Work](mailto:baturalp@zk-lokomotive.xyz)
 - **Telegram:** [t.me/guattaridante](https://t.me/guattaridante)
@@ -148,3 +148,6 @@
 - **Turkish:** Native
 
 ---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=virjilakrum&show_icons=true&locale=en&layout=compact" alt="virjilakrum" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=virjilakrum&show_icons=true&locale=en" alt="virjilakrum" /></p>
