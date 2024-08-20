@@ -96,7 +96,7 @@
 ## 🏗️ Skills
 
 ### **Coding Languages**
-- Rust: Anchor, Ring
+- Rust: Anchor, Ring, tFHE, Hash
 - Smart Contracts: Solidity, Rust, Circom, Noirlang, Ts,  OpenZeppelin
 - Data fetching:Query
 - API: GraphQL, OpenAPI
@@ -109,7 +109,7 @@
 - Smart Contracts: Solidity, Rust, Move, OpenZeppelin
 - API: GraphQL, OpenAPI
 - Cloud: Firebase
-- Web3: EVM, Ceramic Network, Avalanche-C, Scroll zkEvm, Wormhole-SDK, HAQQ, Moralis, APTOS, Sui, BNBchain, Goerli, Sepolia, Lens, Ganache, Hardhat, Foundry/Anvil, Mina Berkeley Network
+- Web3: EVM, Solana Devnet, Ceramic Network, Avalanche-C, Scroll zkEvm, Wormhole-SDK, HAQQ, Moralis, APTOS, Sui, BNBchain, Goerli, Sepolia, Lens, Ganache, Hardhat, Foundry/Anvil, Mina Berkeley Network
 
 ### **Application Development**
 - Ganache Truffle Suite
