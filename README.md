@@ -1,5 +1,3 @@
-# •Dante• 
-
 - **Email:** [Work](mailto:baturalp@zk-lokomotive.xyz)
 - **Telegram:** [t.me/guattaridante](https://t.me/guattaridante)
 - **LinkedIn:** [linkedin.com/in/baturalpguvenc](https://www.linkedin.com/in/baturalpguvenc)
@@ -119,33 +117,6 @@
 - Hardhat
 - Docker Compose
 - Git/Github
-
-### **UI/UX & Design**
-- Figma
-- Spline
-- Dora
-- Webflow
-- Three.js
-
----
-
-## Certificates
-
-- **MIT Blockchain & Crypto Money Completion Certificate** | August 2023
-- **ETH Devcon Istanbul** | November 2023
-- **Sovos Hyperledger Hackathon** | November 2022
-- **TURING Blockchain Certificate** | September 2023
-- **DIGIAGE Bilişim Vadisi Unreal Engine V Developer** | September 2022
-- **BTK Academy - C++** | October 2021
-- **BTK Academy - Fundamentals of Cryptography**
-- **BTK Academy - Effective Communication Strategies**
-
----
-
-## Languages
-
-- **English:** Close to Fluent (Equivalent to TOEFL, 74 points)
-- **Turkish:** Native
 
 ---
 
