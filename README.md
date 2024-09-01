@@ -1,7 +1,5 @@
 - **Email:** [Work](mailto:baturalp@zk-lokomotive.xyz)
 - **Telegram:** [t.me/guattaridante](https://t.me/guattaridante)
-- **LinkedIn:** [linkedin.com/in/baturalpguvenc](https://www.linkedin.com/in/baturalpguvenc)
-- **Medium:** [medium.com/@baturalpguvenc](https://medium.com/@baturalpguvenc)
 
 ## 🏆 Hackathon Achievements
 
