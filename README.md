@@ -3,6 +3,7 @@
 
 ## 🏆 Hackathon Achievements
 
+- **Solana Turkey Hackathon (Winner🥇)** | Sep 2024
 - **Sui Overflow Local Track (Winner🥇)** | May 2024
 - **EDCON Japan (Finalist)** | May 2024
 - **Solana Global Renaissance Hackathon Multichain Track (Winner🥇)** | April 2024
