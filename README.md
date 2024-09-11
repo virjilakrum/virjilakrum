@@ -1,7 +1,7 @@
 - **Email:** [Work](mailto:baturalp@zk-lokomotive.xyz)
 - **Telegram:** [t.me/guattaridante](https://t.me/guattaridante)
 
-## 🏆 Hackathon Achievements
+## 🏆 Hackathons, Grants & Achievements
 
 - **Solana Turkey Hackathon (Winner🥇)** | Sep 2024
 - **Wormhole xGrant (Project Grant💵)** | Jun 2024
