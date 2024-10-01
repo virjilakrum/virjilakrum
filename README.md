@@ -3,7 +3,7 @@
 
 ## 🏆 Hackathons, Grants & Achievements
 
-- **Solana Turkey Hackathon (Winner🥇)** | Sep 2024
+- **Solana Turkey Mini Hackathon (Winner🥇)** | Sep 2024
 - **Wormhole xGrant (Project Grant💵)** | Jun 2024
 - **Superteam Solana Grant (Project Grant💵)** Jun 2024
 - **Sui Overflow Local Track (Winner🥇)** | May 2024
