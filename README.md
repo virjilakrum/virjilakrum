@@ -3,7 +3,7 @@
 
 ## 🏆 Hackathons, Grants & Achievements
 
-- **MovementLabs Battle of Olympus Hackathon (Finalist🏆)** | Oct 2024
+- **Movement Labs Battle of Olympus Hackathon (Finalist🏆)** | Oct 2024
 - **Encode Wormhole Global Hackathon Best Integration on an Existing Project (Winner🥉)** | Oct 2024
 - **Solana Turkey Mini Hackathon (Winner🥇)** | Sep 2024
 - **Wormhole xGrant (Project Grant💵)** | Jun 2024
