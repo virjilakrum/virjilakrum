@@ -3,6 +3,7 @@
 
 ## 🏆 Hackathons, Grants & Achievements
 -------
+- **Wormhole Global Sigma Hackathon Best Existing Project (Winner 5th🏆)** | Nov 2024
 - **Solana Global Radar Hackathon Zero Track (Winner 3-4th🏆)** | Oct 2024
 - **Solana Demoday (Winner🥉)** | Oct 2024
 - **Movement Labs Battle of Olympus Hackathon (Finalist🏆)** | Oct 2024
