@@ -2,8 +2,9 @@
 - **Telegram:** [t.me/guattaridante](https://t.me/guattaridante)
 
 ## 🏆 Hackathons, Grants & Achievements
-**Solana Superteam Earn 1st Place** 
 -------
+
+
 - **Wormhole Global Sigma Hackathon Best Existing Project (Winner 5th🏆)** | Nov 2024
 - **Solana Global Radar Hackathon Zero Track (Winner 3-4th🏆)** | Oct 2024
 - **Solana Demoday (Winner🥉)** | Oct 2024
@@ -21,5 +22,5 @@
 - **SOVOS Hackathon (Winner🥈)** | November 2022
 - **Fizy HaCXathon (Finalist🏆)** | May 2022
 -------
-
+**Solana Superteam Earn 1st Place** 
 
