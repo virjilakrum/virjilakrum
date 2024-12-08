@@ -20,3 +20,5 @@
 - **SOVOS Hackathon (Winner🥈)** | November 2022
 - **Fizy HaCXathon (Finalist🏆)** | May 2022
 -------
+
+**Solana Superteam Earn 1st Place** | https://earn.superteam.fun/t/virjilakrum
