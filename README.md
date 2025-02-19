@@ -4,6 +4,8 @@
 ## 🏆 Hackathons, Grants & Achievements
 -------
 
+
+- **Kapsül Hackathon (Winner🥇)** | Feb 2025
 - **Movement Labs Runner-Up Project Grant🏆** | Dec 2024
 - **Wormhole Sigma Accelarator Program Grant🏆** | Dec 2024
 - **Wormhole Global Sigma Hackathon Best Existing Project (Winner 5th🏆)** | Nov 2024
@@ -16,11 +18,11 @@
 - **Superteam Solana Grant (Project Grant)** Jun 2024
 - **Sui Overflow Local Track (Winner🥇)** | May 2024
 - **EDCON Japan (Finalist🏆)** | May 2024
-- **Solana Global Renaissance Hackathon Multichain Track (Winner🥇)** | April 2024
-- **Solana Demoday (Winner🥈)** | March 2024
-- **Solana Mini Hackathon (Winner🥇)** | March 2024
-- **MINA zk-Ignite Cohort-3 Program (Project Grant)** | March 2024
-- **SOVOS Hackathon (Winner🥈)** | November 2022
+- **Solana Global Renaissance Hackathon Multichain Track (Winner🥇)** | Apr 2024
+- **Solana Demoday (Winner🥈)** | Mar 2024
+- **Solana Mini Hackathon (Winner🥇)** | Mar 2024
+- **MINA zk-Ignite Cohort-3 Program (Project Grant)** | Mar 2024
+- **SOVOS Hackathon (Winner🥈)** | Nov 2022
 - **Fizy HaCXathon (Finalist🏆)** | May 2022
 -------
 **Solana Superteam Earn 1st Place** 
