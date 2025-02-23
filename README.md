@@ -4,7 +4,7 @@
 ## 🏆 Hackathons, Grants & Achievements
 -------
 
-
+- **Units Network Hackathon (Winner 4th🏆)** | Feb 2025
 - **Kapsül Hackathon (Winner🥇)** | Feb 2025
 - **Movement Labs Runner-Up Project Grant🏆** | Dec 2024
 - **Wormhole Sigma Accelarator Program Grant🏆** | Dec 2024
