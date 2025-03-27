@@ -4,7 +4,7 @@
 ## 🏆 Hackathons, Grants & Achievements
 -------
 
-- ***Celestia Global Mammothon Hackathon (Top 30 Projects ⭐️)** | Mar 2025
+- **Celestia Global Mammothon Hackathon (Top 30 Projects ⭐️)** | Mar 2025
 - **Units Network Hackathon (Winner 4th🏆)** | Feb 2025
 - **Kapsül Hackathon (Winner🥇)** | Feb 2025
 - **Movement Labs Runner-Up Project Grant🏆** | Dec 2024
