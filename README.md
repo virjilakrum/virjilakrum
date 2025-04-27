@@ -26,7 +26,5 @@
 - **SOVOS Hackathon (Winner🥈)** | Nov 2022
 - **Fizy HaCXathon (Finalist🏆)** | May 2022
 -------
-**Solana Superteam Earn 1st Place** 
-
-<a href="https://www.drips.network/app/projects/github/zk-Lokomotive/zk-lokomotive-core" target="_blank"><img src="https://www.drips.network/api/embed/project/https%3A%2F%2Fgithub.com%2Fzk-Lokomotive%2Fzk-lokomotive-core/support.png?background=blue&style=drips&text=project&stat=none" alt="Support zk-lokomotive-core on drips.network" height="32"></a>
+**Solana Superteam Earn Profile:** [old hunter](https://earn.superteam.fun/t/virjilakrum)
 
