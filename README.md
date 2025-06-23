@@ -4,6 +4,7 @@
 ## 🏆 Hackathons, Grants & Achievements
 -------
 
+- **Stellar Hack Pera DeFi Track (Winner🥉)** | Jun 2025
 - **Celestia Global Mammothon Hackathon (Top 19 Projects ⭐️)** | Mar 2025
 - **Units Network Hackathon (Winner 4th🏆)** | Feb 2025
 - **Kapsül Hackathon (Winner🥇)** | Feb 2025
