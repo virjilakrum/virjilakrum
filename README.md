@@ -28,5 +28,5 @@
 - **SOVOS Hackathon (Winner🥈)** | Nov 2022
 - **Fizy HaCXathon (Finalist🏆)** | May 2022
 -------
-**Solana Superteam Earn Profile:** [old hunter](https://earn.superteam.fun/t/virjilakrum)
+**Solana Superteam Earn Profile:** [old hunter](https://earn.superteam.fun/t/virjilakrum) | [x post](https://x.com/superteamearn/status/1913851510737584451?s=61)
 
