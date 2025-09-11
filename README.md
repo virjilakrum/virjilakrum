@@ -3,7 +3,7 @@
 
 ## 🏆 Hackathons, Grants & Achievements
 -------
-
+- **CoreDAO Global Buildathon (Semi-Finalist🏆)** | Sep 2025
 - **$12.5M Marketcap on Ethereum** 🌿 | Aug 2025
 - **Stellar Hack Pera DeFi Track (Winner🥉)** | Jun 2025
 - **Celestia Global Mammothon Hackathon (Top 19 Projects ⭐️)** | Mar 2025
