@@ -3,6 +3,8 @@
 
 ## 🏆 Hackathons, Grants & Achievements
 -------
+- **Build_ on Sui Hackathon (Winner 4th🏅)** | Oct 2025
+- **Monad Blitz Hackathon (Honorable Mention🏆)** | Oct 2025
 - **CoreDAO Global Buildathon (Semi-Finalist🏆)** | Sep 2025
 - **$12.5M Marketcap on Ethereum** 🌿 | Aug 2025
 - **Stellar Hack Pera DeFi Track (Winner🥉)** | Jun 2025
