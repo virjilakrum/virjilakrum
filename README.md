@@ -1,8 +1,9 @@
-- **Email:** [Work](mailto:baturalp@zk-lokomotive.xyz)
+- **Email:** [Work](mailto:baturalp@wienerlabs.com)
 - **Telegram:** [t.me/guattaridante](https://t.me/guattaridante)
 
 ## 🏆 Hackathons, Grants & Achievements
 -------
+- **Superteam Turkey x Halborn Solana Colosseum Frontier Hackathon (Winner 1st🥇)** Jun 2026
 - **Build_ on Sui Hackathon (Winner 4th🏅)** | Oct 2025
 - **Monad Blitz Hackathon (Honorable Mention🏆)** | Oct 2025
 - **CoreDAO Global Buildathon (Semi-Finalist🏆)** | Sep 2025
