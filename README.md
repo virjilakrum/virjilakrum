@@ -3,6 +3,7 @@
 
 ## 🏆 Hackathons, Grants & Achievements
 -------
+- **Colosseum Crypto World’s Fair: Superteam Türkiye Local Track (Winner🥉)** | Nov 2026
 - **$1.3M Marketcap on Robinhood Chain** 🌿 | Sep 2026
 - **Superteam Turkey x Halborn Solana Colosseum Frontier Hackathon (Winner 1st🥇)** Jun 2026
 - **Build_ on Sui Hackathon (Winner 4th🏅)** | Oct 2025
